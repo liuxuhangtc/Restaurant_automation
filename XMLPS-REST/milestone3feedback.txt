@@ -1,0 +1,21 @@
+*********Place feedback for Class Diagram here***********
+
+**Xuhang Liu**
+It looks pretty good for me.
+But, does there should have a exit for the program?
+
+
+************ Update *************
+Added package diagrams & CRC index cards
+
+Small changes to the class diagram
+
+I didn't have much luck finding examples of Package Diagrams in the book,
+so I mostly went off of in-class examples and some online examples.
+I tried out StarUML, and it seemed to format the Package Diagrams
+more like the web examples, but I tried to keep the contents consistent with the in-class stuff
+
+It seemed like the CRC index cards don't really include accessor functions in the responsibilities
+column, so I left them out. This is why some classes that have several functions in the class diagram
+only have one or two responsibilites in the index cards.
+

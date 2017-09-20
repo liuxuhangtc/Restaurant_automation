@@ -1,0 +1,15 @@
+--ENTER FEEDBACK BELOW --
+
+Stefon: Feel free to give me feedback and inform me if you would like to implement some of the code differently. 
+I was thinking of having each menuitem in a hashtable for easier menu searching and adding. Although, a linked
+list would be easier to implement and maintain especially if there arent many menu items to store.
+
+
+
+--UPDATES--
+
+1.Starting with menu component, implemented with a hashtable.
+2. Finished menu component.
+3. Starting on Order component, also need to implement psuedo code.
+4. Added Employee component.
+5. Added UI component
